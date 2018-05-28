@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+ <package>
+   <metadata>
+	 <id>Fast.NHibernate</id>
+	 <version>0.0.0.0</version>
+	 <title>Fast.NHibernate</title>
+	 <authors>Sergii Iarovyi</authors>
+	 <owners>Sergii Iarovyi</owners>
+	 <licenseUrl>https://raw.githubusercontent.com/iarovyi/Fast.NHibernate/master/LICENSE.txt</licenseUrl>
+	 <projectUrl>https://github.com/iarovyi/Fast.NHibernate</projectUrl>
+	 <requireLicenseAcceptance>false</requireLicenseAcceptance>
+	 <description>Faster NHibernate with single request updates and deletions</description>
+	 <releaseNotes>First version</releaseNotes>
+	 <copyright>Copyright 2018</copyright>
+	 <tags>NHibernate</tags>
+	 <!--Files will be injected in build script<files/>-->
+   </metadata>
+ </package>
