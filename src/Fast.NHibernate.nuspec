@@ -2,7 +2,7 @@
  <package>
    <metadata>
 	 <id>Fast.NHibernate</id>
-	 <version>0.0.0.0</version>
+	 <version>1.0.0.0</version>
 	 <title>Fast.NHibernate</title>
 	 <authors>Sergii Iarovyi</authors>
 	 <owners>Sergii Iarovyi</owners>
@@ -13,6 +13,9 @@
 	 <releaseNotes>First version</releaseNotes>
 	 <copyright>Copyright 2018</copyright>
 	 <tags>NHibernate</tags>
+	 <dependencies>
+		<dependency id="NHibernate" version="5.1.2" />
+	</dependencies>
 	 <!--Files will be injected in build script<files/>-->
    </metadata>
  </package>
